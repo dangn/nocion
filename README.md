@@ -1,4 +1,4 @@
-# Nocion Repository
+# Nocion
 
 <img src="images/nocion-icon.png" alt="Nocion logo" width="160" />
 
