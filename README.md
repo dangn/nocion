@@ -1,8 +1,8 @@
-# Nocion
+# Nocion for Visual Studio Code
 
 <img src="images/nocion-icon.png" alt="Nocion logo" width="160" />
 
-Nocion is a VS Code Chat Participant extension that maintains an LLM-written personal markdown wiki.
+Nocion for Visual Studio Code is a Chat Participant extension that maintains an LLM-written personal markdown wiki.
 
 This repository contains the extension source code, implementation plan, tests, packaging script, and image assets. For the end-user VS Code extension guide, see [VS_CODE_README.md](VS_CODE_README.md).
 
